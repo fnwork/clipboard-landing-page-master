@@ -1,8 +1,10 @@
 # huddle-landing-page-with-single-introductory-section-master
 Frontend Mentor challenge
+Media size 1440px and 375px
 
 Desktop Design
 
-![Uploading desktop-design.jpg…]()
+![desktop-design](https://user-images.githubusercontent.com/114169523/234088297-17dba9b7-b13c-43d5-b7bd-c005ded1335d.jpg)
 
-Media resolution include 1440px and 375px
+Challenges:
+positioning the background image

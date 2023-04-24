@@ -1,5 +1,6 @@
 # huddle-landing-page-with-single-introductory-section-master
 Frontend Mentor challenge
+
 Media size 1440px and 375px
 
 Desktop Design
